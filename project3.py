@@ -1,3 +1,4 @@
+# creating a keyboard pad
 num_pad = [
     [1, 2, 3],
     [4, 5, 6],
